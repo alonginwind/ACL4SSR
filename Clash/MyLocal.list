@@ -8,7 +8,8 @@ DOMAIN-SUFFIX,eq.10jqka.com.cn
 DOMAIN-SUFFIX,qianjiapp.com
 
 # 向日葵
-DOMAIN-SUFFIX,sunlogin.oray.com
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,oray.net
 
 # 双清
 DOMAIN-SUFFIX,shuangqingtech.com
