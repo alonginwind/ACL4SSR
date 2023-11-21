@@ -12,3 +12,7 @@ DOMAIN-SUFFIX,sunlogin.oray.com
 
 # 双清
 DOMAIN-SUFFIX,shuangqingtech.com
+
+# 银行
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,cmbchina.com
