@@ -21,3 +21,6 @@ DOMAIN-SUFFIX,cmbchina.com
 # 京东
 DOMAIN-SUFFIX,jvod.300hu.com
 DOMAIN-SUFFIX,dvod.300hu.com
+
+# Gitee
+DOMAIN-SUFFIX,gitee.com
