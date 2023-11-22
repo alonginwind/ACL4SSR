@@ -24,3 +24,7 @@ DOMAIN-SUFFIX,dvod.300hu.com
 
 # Gitee
 DOMAIN-SUFFIX,gitee.com
+
+# 阿里云盘
+DOMAIN-SUFFIX,aliyundrive.net
+DOMAIN-SUFFIX,alipan.com
