@@ -17,3 +17,6 @@ DOMAIN-SUFFIX,shuangqingtech.com
 # 银行
 DOMAIN-SUFFIX,ccb.com
 DOMAIN-SUFFIX,cmbchina.com
+
+# 京东
+DOMAIN-SUFFIX,jvod.300hu.com
