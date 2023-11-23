@@ -55,6 +55,7 @@ DOMAIN-SUFFIX,didistatic.com
 
 # 抖音
 DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
 
 # 个推
 DOMAIN-SUFFIX,b-gtc.getui.net
@@ -62,8 +63,19 @@ DOMAIN-SUFFIX,gs.getui.net
 DOMAIN-SUFFIX,c-gs.getui.net
 DOMAIN-SUFFIX,c-gtc.getui.net
 DOMAIN-SUFFIX,sdk.open.talk.getui.net
+DOMAIN-SUFFIX,toblog.ctobsnssdk.com
 
 # 上海游昆
 DOMAIN-SUFFIX,yksdks.com
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,dutils.com
+
+# 脉脉
+DOMAIN-SUFFIX,taou.com
+
+# 下厨房
+DOMAIN-SUFFIX,adukwai.com
+DOMAIN-SUFFIX,adkwai.com
+DOMAIN-SUFFIX,links.muchcloud.com
+DOMAIN-SUFFIX,mssdk.volces.com
+DOMAIN-SUFFIX,qzs.gdtimg.com
