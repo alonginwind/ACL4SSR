@@ -28,3 +28,10 @@ DOMAIN-SUFFIX,gitee.com
 # 阿里云盘
 DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,alipan.com
+
+# 惠普
+DOMAIN-SUFFIX,hpsmart.com
+DOMAIN-SUFFIX,ws-hp.com
+DOMAIN-SUFFIX,hp.com
+DOMAIN-SUFFIX,hpoobe.com
+DOMAIN-SUFFIX,instantink.com
