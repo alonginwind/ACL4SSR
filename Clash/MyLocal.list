@@ -10,6 +10,16 @@ DOMAIN-SUFFIX,qianjiapp.com
 # 向日葵
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,oray.net
+DOMAIN-SUFFIX,orayimg.com
+
+# ToDesk
+DOMAIN-SUFFIX,todesk.com
+
+# 中国移动
+DOMAIN-SUFFIX,cmpassport.com
+
+# 创蓝认证
+DOMAIN-SUFFIX,sysdk.cl2009.com
 
 # 双清
 DOMAIN-SUFFIX,shuangqingtech.com
@@ -31,3 +41,29 @@ DOMAIN-SUFFIX,alipan.com
 
 # 小米
 DOMAIN-SUFFIX,mipay.com
+
+# 百度
+DOMAIN-SUFFIX,duxiaoman.com
+DOMAIN-SUFFIX,dxmpay.com
+DOMAIN-SUFFIX,duxiaomanfintech.com
+
+# ppio
+DOMAIN-SUFFIX,ppio.cloud
+
+# 滴滴
+DOMAIN-SUFFIX,didistatic.com
+
+# 抖音
+DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
+
+# 个推
+DOMAIN-SUFFIX,b-gtc.getui.net
+DOMAIN-SUFFIX,gs.getui.net
+DOMAIN-SUFFIX,c-gs.getui.net
+DOMAIN-SUFFIX,c-gtc.getui.net
+DOMAIN-SUFFIX,sdk.open.talk.getui.net
+
+# 上海游昆
+DOMAIN-SUFFIX,yksdks.com
+DOMAIN-SUFFIX,mob.com
+DOMAIN-SUFFIX,dutils.com
