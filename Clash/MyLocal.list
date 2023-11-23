@@ -1,9 +1,6 @@
 # Alist
 DOMAIN-SUFFIX,alonginwind.eu.org
 
-# 同花顺图标
-DOMAIN-SUFFIX,eq.10jqka.com.cn
-
 # 钱迹
 DOMAIN-SUFFIX,qianjiapp.com
 
@@ -38,9 +35,11 @@ DOMAIN-SUFFIX,dvod.300hu.com
 # Gitee
 DOMAIN-SUFFIX,gitee.com
 
-# 阿里云盘
+# 阿里
 DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,alipan.com
+DOMAIN-SUFFIX,dingtalkapps.com
+DOMAIN-SUFFIX,alibabachengdun.com
 
 # 小米
 DOMAIN-SUFFIX,mipay.com
@@ -63,6 +62,7 @@ DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
 # 个推
 DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,toblog.ctobsnssdk.com
+DOMAIN-SUFFIX,easytomessage.com
 
 # 上海游昆
 DOMAIN-SUFFIX,yksdks.com
@@ -126,3 +126,20 @@ DOMAIN-SUFFIX,gdapi.a5b.cc
 # 网易
 DOMAIN-SUFFIX,netease.im
 DOMAIN-SUFFIX,qiyukf.com
+DOMAIN-SUFFIX,hwwt8.com
+DOMAIN-SUFFIX,laiqukankan.com
+DOMAIN-SUFFIX,zhuanzfx.com
+DOMAIN-SUFFIX,haowu.link
+DOMAIN-SUFFIX,netease.starrydyn.com
+
+# X浏览器
+DOMAIN-SUFFIX,xbext.com
+
+# 百盛中国
+DOMAIN-SUFFIX,yumchina.com
+
+# 喜马拉雅
+DOMAIN-SUFFIX,9nali.com
+
+# 七牛云
+DOMAIN-SUFFIX,qnqcdn.net
