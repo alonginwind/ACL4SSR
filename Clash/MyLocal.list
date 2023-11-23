@@ -61,11 +61,7 @@ DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
 
 # 个推
-DOMAIN-SUFFIX,b-gtc.getui.net
-DOMAIN-SUFFIX,gs.getui.net
-DOMAIN-SUFFIX,c-gs.getui.net
-DOMAIN-SUFFIX,c-gtc.getui.net
-DOMAIN-SUFFIX,sdk.open.talk.getui.net
+DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,toblog.ctobsnssdk.com
 
 # 上海游昆
@@ -95,5 +91,27 @@ DOMAIN-SUFFIX,send2boox.com
 # 酷控
 DOMAIN-SUFFIX,kookong.com
 
-# 云闪付
+# 银联
 DOMAIN-SUFFIX,95516.com
+DOMAIN-SUFFIX,cdn.upst86.com
+
+# 叮当快药
+DOMAIN-SUFFIX,ddky.com
+DOMAIN-SUFFIX,simage.vtwinyv.com
+DOMAIN-SUFFIX,pingback.e.vhall.com
+DOMAIN-SUFFIX,sis.jpush.io
+DOMAIN-SUFFIX,csszone.net
+DOMAIN-SUFFIX,api.vhallyun.com
+
+# 金山
+DOMAIN-SUFFIX,kingsoft-office-service.com
+
+# 蜻蜓FM
+DOMAIN-SUFFIX,qingting.fm
+
+# 航讯游戏
+DOMAIN-SUFFIX,hxchess.com
+
+# 多点
+DOMAIN-SUFFIX,dmall.com
+DOMAIN-SUFFIX,dmallcdn.com
