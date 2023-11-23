@@ -28,3 +28,6 @@ DOMAIN-SUFFIX,gitee.com
 # 阿里云盘
 DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,alipan.com
+
+# 小米
+DOMAIN-SUFFIX,mipay.com
