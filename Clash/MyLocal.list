@@ -17,6 +17,9 @@ DOMAIN-SUFFIX,todesk.com
 
 # 中国移动
 DOMAIN-SUFFIX,cmpassport.com
+DOMAIN-SUFFIX,migufun.com
+DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,mmarket.com
 
 # 创蓝认证
 DOMAIN-SUFFIX,sysdk.cl2009.com
@@ -82,3 +85,15 @@ DOMAIN-SUFFIX,qzs.gdtimg.com
 
 # 隐私
 DOMAIN-SUFFIX,log.umsns.com
+
+# 邮箱
+DOMAIN-SUFFIX,wpsmail.net
+
+# 文石
+DOMAIN-SUFFIX,send2boox.com
+
+# 酷控
+DOMAIN-SUFFIX,kookong.com
+
+# 云闪付
+DOMAIN-SUFFIX,95516.com
