@@ -18,8 +18,9 @@ DOMAIN-SUFFIX,migufun.com
 DOMAIN-SUFFIX,chinamobile.com
 DOMAIN-SUFFIX,mmarket.com
 
-# 创蓝认证
+# 认证
 DOMAIN-SUFFIX,cl2009.com
+DOMAIN-SUFFIX,sq581.com
 
 # 双清
 DOMAIN-SUFFIX,shuangqingtech.com
@@ -144,3 +145,8 @@ DOMAIN-SUFFIX,9nali.com
 
 # 七牛云
 DOMAIN-SUFFIX,qnqcdn.net
+
+# 财信证券
+DOMAIN-SUFFIX,hnchasing.com
+DOMAIN-SUFFIX,cfzq.com
+DOMAIN-SUFFIX,sseinfo.com
