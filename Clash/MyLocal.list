@@ -79,3 +79,6 @@ DOMAIN-SUFFIX,adkwai.com
 DOMAIN-SUFFIX,links.muchcloud.com
 DOMAIN-SUFFIX,mssdk.volces.com
 DOMAIN-SUFFIX,qzs.gdtimg.com
+
+# 隐私
+DOMAIN-SUFFIX,log.umsns.com
