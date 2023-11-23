@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,alonginwind.eu.org
 
 # 钱迹
 DOMAIN-SUFFIX,qianjiapp.com
+DOMAIN-SUFFIX,in.appcenter.ms
 
 # 向日葵
 DOMAIN-SUFFIX,oray.com
@@ -28,10 +29,14 @@ DOMAIN-SUFFIX,shuangqingtech.com
 # 银行
 DOMAIN-SUFFIX,ccb.com
 DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,cmbimg.com
+DOMAIN-SUFFIX,joying.com
 
 # 京东
 DOMAIN-SUFFIX,jvod.300hu.com
 DOMAIN-SUFFIX,dvod.300hu.com
+DOMAIN-SUFFIX,jdcloud-oss.com
+DOMAIN-SUFFIX,tjjt360.com
 
 # Gitee
 DOMAIN-SUFFIX,gitee.com
@@ -41,6 +46,7 @@ DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,alipan.com
 DOMAIN-SUFFIX,dingtalkapps.com
 DOMAIN-SUFFIX,alibabachengdun.com
+DOMAIN-SUFFIX,didistatic.com
 
 # 小米
 DOMAIN-SUFFIX,mipay.com
@@ -53,9 +59,6 @@ DOMAIN-SUFFIX,beizi.biz
 
 # ppio
 DOMAIN-SUFFIX,ppio.cloud
-
-# 滴滴
-DOMAIN-SUFFIX,didistatic.com
 
 # 抖音
 DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
@@ -96,6 +99,7 @@ DOMAIN-SUFFIX,kookong.com
 # 银联
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,cdn.upst86.com
+DOMAIN-SUFFIX,getmobileredirecthost
 
 # 叮当快药
 DOMAIN-SUFFIX,ddky.com
@@ -146,7 +150,11 @@ DOMAIN-SUFFIX,9nali.com
 # 七牛云
 DOMAIN-SUFFIX,qnqcdn.net
 
-# 财信证券
+# 证券
 DOMAIN-SUFFIX,hnchasing.com
 DOMAIN-SUFFIX,cfzq.com
 DOMAIN-SUFFIX,sseinfo.com
+DOMAIN-SUFFIX,kuaicha365.com
+DOMAIN-SUFFIX,touzime.com
+DOMAIN-SUFFIX,hxkba.com
+DOMAIN-SUFFIX,mobi2.123ths.com
