@@ -7,3 +7,6 @@ DOMAIN-SUFFIX,liteapks.com
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,yandex.ru
+
+# IP.SB 国外
+DOMAIN-SUFFIX,ip.sb
