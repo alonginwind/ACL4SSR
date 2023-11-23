@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,chinamobile.com
 DOMAIN-SUFFIX,mmarket.com
 
 # 创蓝认证
-DOMAIN-SUFFIX,sysdk.cl2009.com
+DOMAIN-SUFFIX,cl2009.com
 
 # 双清
 DOMAIN-SUFFIX,shuangqingtech.com
@@ -115,3 +115,14 @@ DOMAIN-SUFFIX,hxchess.com
 # 多点
 DOMAIN-SUFFIX,dmall.com
 DOMAIN-SUFFIX,dmallcdn.com
+
+# Keep
+DOMAIN-SUFFIX,gotokeep.com
+DOMAIN-SUFFIX,keepcdn.com
+DOMAIN-SUFFIX,calorietech.com
+DOMAIN-SUFFIX,cn-fp.apitd.net
+DOMAIN-SUFFIX,gdapi.a5b.cc
+
+# 网易
+DOMAIN-SUFFIX,netease.im
+DOMAIN-SUFFIX,qiyukf.com
