@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,xiaoe-tech.com
 DOMAIN-SUFFIX,tencentcs.com
 DOMAIN-SUFFIX,jmgo.com
 DOMAIN-SUFFIX,wasu.tv
+DOMAIN-SUFFIX,downbei.com
+DOMAIN-SUFFIX,znds.com
+DOMAIN-SUFFIX,tvfuwu.com
 
 # TCL
 DOMAIN-SUFFIX,leiniao.com
@@ -25,11 +28,7 @@ DOMAIN-SUFFIX,my7v.com
 DOMAIN-SUFFIX,tcloudfamily.com
 DOMAIN-SUFFIX,aisee.tv
 DOMAIN-SUFFIX,cedock.com
-
-# 投影仪
-DOMAIN-SUFFIX,downbei.com
-DOMAIN-SUFFIX,znds.com
-DOMAIN-SUFFIX,tvfuwu.com
+DOMAIN-SUFFIX,tclking.com
 
 # 钱迹
 DOMAIN-SUFFIX,qianjiapp.com
