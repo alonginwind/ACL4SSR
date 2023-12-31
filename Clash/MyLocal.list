@@ -4,9 +4,6 @@ DOMAIN-SUFFIX,alonginwind.eu.org
 # 活动行
 DOMAIN-SUFFIX,huodongxing.com
 
-# 移动云盘
-DOMAIN-SUFFIX,yun.139.com
-
 # 114挂号
 DOMAIN-SUFFIX,114yygh.com
 
@@ -32,6 +29,10 @@ DOMAIN-SUFFIX,tcloudfamily.com
 DOMAIN-SUFFIX,aisee.tv
 DOMAIN-SUFFIX,cedock.com
 DOMAIN-SUFFIX,tclking.com
+DOMAIN-SUFFIX,huan.tv
+
+# 小微直播
+DOMAIN-SUFFIX,51romzj.xyz
 
 # 钱迹
 DOMAIN-SUFFIX,qianjiapp.com
@@ -50,6 +51,7 @@ DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,migufun.com
 DOMAIN-SUFFIX,chinamobile.com
 DOMAIN-SUFFIX,mmarket.com
+DOMAIN-SUFFIX,yun.139.com
 
 # 认证
 DOMAIN-SUFFIX,cl2009.com
