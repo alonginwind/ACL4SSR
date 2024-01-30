@@ -1,3 +1,6 @@
+# stun服务器
+DOMAIN-KEYWORD,stun
+
 # Alist
 DOMAIN-SUFFIX,alonginwind.eu.org
 
