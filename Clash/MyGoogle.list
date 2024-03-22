@@ -1,3 +1,6 @@
 # 谷歌商店规则
 DOMAIN-SUFFIX,play-lh.googleusercontent.com
 DOMAIN-SUFFIX,firebase-settings.crashlytics.com
+
+# 谷歌服务
+DOMAIN-SUFFIX,dl.google.com
