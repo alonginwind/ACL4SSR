@@ -1,3 +1,10 @@
+# 微信
+DOMAIN-SUFFIX,weixin.drip.im
+DOMAIN-SUFFIX,servicewechat.com
+
+# 有赞
+DOMAIN-SUFFIX,youzan.com
+
 # stun服务器
 DOMAIN-KEYWORD,stun
 
