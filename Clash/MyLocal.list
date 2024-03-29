@@ -1,3 +1,6 @@
+# 苹果
+DOMAIN-SUFFIX,push.apple.com
+
 # 微信
 DOMAIN-SUFFIX,weixin.drip.im
 DOMAIN-SUFFIX,servicewechat.com
@@ -82,6 +85,7 @@ DOMAIN-SUFFIX,jvod.300hu.com
 DOMAIN-SUFFIX,dvod.300hu.com
 DOMAIN-SUFFIX,jdcloud-oss.com
 DOMAIN-SUFFIX,tjjt360.com
+DOMAIN-SUFFIX,jddebug.com
 
 # Gitee
 DOMAIN-SUFFIX,gitee.com
@@ -145,6 +149,7 @@ DOMAIN-SUFFIX,kookong.com
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,cdn.upst86.com
 DOMAIN-SUFFIX,getmobileredirecthost
+DOMAIN-SUFFIX,mpool.unionpay.com
 
 # 叮当快药
 DOMAIN-SUFFIX,ddky.com
@@ -182,6 +187,7 @@ DOMAIN-SUFFIX,laiqukankan.com
 DOMAIN-SUFFIX,zhuanzfx.com
 DOMAIN-SUFFIX,haowu.link
 DOMAIN-SUFFIX,netease.starrydyn.com
+DOMAIN-SUFFIX,yunxindns.com
 
 # X浏览器
 DOMAIN-SUFFIX,xbext.com
