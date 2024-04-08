@@ -2,6 +2,9 @@
 DOMAIN-SUFFIX,listeneer.com
 DOMAIN-SUFFIX,chivox.com
 
+# Switch
+DOMAIN-SUFFIX,nsgame.club
+
 # 苹果
 DOMAIN-SUFFIX,push.apple.com
 
