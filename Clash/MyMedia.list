@@ -10,6 +10,3 @@ DOMAIN-SUFFIX,yandex.ru
 
 # IP.SB 国外
 DOMAIN-SUFFIX,ip.sb
-
-# Switch
-DOMAIN-SUFFIX,cdn.nsgame.club
