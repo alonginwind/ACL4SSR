@@ -19,9 +19,6 @@ DOMAIN-SUFFIX,youzan.com
 # stun服务器
 DOMAIN-KEYWORD,stun
 
-# Alist
-DOMAIN-KEYWORD,alonginwind
-
 # 活动行
 DOMAIN-SUFFIX,huodongxing.com
 
