@@ -2,3 +2,6 @@
 DOMAIN-SUFFIX,eq.10jqka.com.cn
 DOMAIN-SUFFIX,stat.10jqka.com.cn
 DOMAIN-SUFFIX,adm.10jqka.com.cn
+
+# 小米天气
+DOMAIN-SUFFIX,wtradv.market.xiaomi.com
