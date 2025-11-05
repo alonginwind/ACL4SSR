@@ -2,6 +2,9 @@
 DOMAIN-SUFFIX,ttlock.com
 DOMAIN-SUFFIX,xmeye.net
 
+# openwrt
+DOMAIN-KEYWORD,alonginwind
+
 # 倾听者
 DOMAIN-SUFFIX,listeneer.com
 DOMAIN-SUFFIX,chivox.com
